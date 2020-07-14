@@ -80,7 +80,7 @@ body{
 /*--------------Introduction-------------*/
 .first_container{
 	/* --- to grab a fixed area(height & width) on the page :--- */
-	background: url("img/space.jpg");
+	background: url("space.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	height: 100%; 
