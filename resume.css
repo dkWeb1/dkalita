@@ -80,7 +80,7 @@ body{
 /*--------------Introduction-------------*/
 .first_container{
 	/* --- to grab a fixed area(height & width) on the page :--- */
-	background: url("http://localhost/deepProjects/deep_Portfolio/img/space.jpg");
+	background: url("img/space.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	height: 100%; 
@@ -111,7 +111,7 @@ body{
 
 
 /*hide the profile iamge when screen size reduces*/
-@media (max-width:629px) {
+@media (max-width:700px) {
   img#deepImg {
     display: none;
   }
